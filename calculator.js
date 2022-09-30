@@ -46,3 +46,30 @@ module.exports = {
 
 // let calculator = new Calculator;
 // module.exports = calculator;
+
+// 3
+// let calculator = {
+//     i: 0,
+//     set(num) {  
+//       this.i += num;
+//       return this.i;
+//     },
+//     add(num) { 
+//       this.i += num;
+//       return this.i;
+//     },
+//     sub(num) {
+//       this.i -= num;
+//       return this.i;
+//     },
+//     mult(num) {
+//       this.i *= num;
+//       return this.i;
+//     },
+//     div(num) {  
+//       this.i /= num;
+//       return this.i;
+//     }
+//   };
+  
+//   module.exports = calculator;
